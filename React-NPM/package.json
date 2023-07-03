@@ -1,0 +1,23 @@
+{
+  "name": "react-npm",
+  "version": "1.0.0",
+  "description": "This is React Learning Guide showing manual adding of NPM by Jayant Shahi.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayant8621/react-learning-guide.git"
+  },
+  "keywords": [],
+  "author": "Jayant Shahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayant8621/react-learning-guide/issues"
+  },
+  "homepage": "https://github.com/Jayant8621/react-learning-guide/React-NPM/#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
