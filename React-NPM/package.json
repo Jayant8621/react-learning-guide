@@ -4,6 +4,8 @@
   "description": "This is React Learning Guide showing manual adding of NPM by Jayant Shahi.",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
